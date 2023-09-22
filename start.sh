@@ -20,4 +20,4 @@ sudo firewall-cmd --reload
 
 
 #Create an index file for your webserver
-sudo bash -c 'echo This is my Web-Server running on Oracle Cloud Infrastructure - New > /var/www/html/index.html'
+sudo bash -c 'echo This is my Web-Server running on Oracle Cloud Infrastructure - CSPE Audit > /var/www/html/index.html'
