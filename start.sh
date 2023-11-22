@@ -20,4 +20,4 @@ sudo firewall-cmd --reload
 
 
 #Create an index file for your webserver
-sudo bash -c 'echo This is my Web-Server running on Oracle Cloud Infrastructure - 2023 > /var/www/html/index.html'
+sudo bash -c 'echo This is my Web-Server running on Oracle Cloud Infrastructure  > /var/www/html/index.html'
