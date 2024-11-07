@@ -21,3 +21,5 @@ sudo firewall-cmd --reload
 
 #Create an index file for your webserver
 sudo bash -c 'echo This is my Web-Server running on Oracle Cloud Infrastructure - DevOps Demo  > /var/www/html/index.html'
+
+#New changes done 11/7/2024
